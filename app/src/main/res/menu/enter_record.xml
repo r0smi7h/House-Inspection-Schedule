@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuitem_enter_record"
+        android:title="Enter Record"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:id="@+id/menuitem_quit"
+        android:title="Quit"
+        app:showAsAction="never">
+    </item>
+</menu>
